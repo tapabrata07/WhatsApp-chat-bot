@@ -98,9 +98,7 @@ Automated WhatsApp Reply
 
 ## Workflow Preview
 
-```md
-![Workflow Screenshot](./screenshots/workflow.png)
-```
+![image alt]
 
 ## Chatbot Demo
 
