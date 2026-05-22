@@ -98,7 +98,7 @@ Automated WhatsApp Reply
 
 ## Workflow Preview
 
-![image alt]
+![image alt](https://github.com/tapabrata07/WhatsApp-chat-bot/blob/30767708e8d1768a8f2a4f7cd4cc0f9a27ee3f05/AI%20WhatsApp%20Restaurant%20Order%20Chatbot.png)
 
 ## Chatbot Demo
 
