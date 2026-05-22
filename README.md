@@ -102,17 +102,10 @@ Automated WhatsApp Reply
 
 ## Chatbot Demo
 
-```md
-![WhatsApp Demo](./screenshots/demo.png)
-```
 
----
+[![Watch the demo](WhatsappChatBotThumbnail.png)](https://youtu.be/c66ziVEwYmQ)
 
-# Demo Video
 
-```md
-[Watch Demo Video](YOUR_VIDEO_LINK_HERE)
-```
 
 ---
 
